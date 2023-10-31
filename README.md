@@ -15,6 +15,7 @@
 ### ToolBox
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)](https://jupyter.org/)
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://www.sqlite.org/)
 [![](https://img.shields.io/badge/-LaTeX-000?&logo=latex)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Linux-000?&logo=linux)](https://www.linux.org/)
