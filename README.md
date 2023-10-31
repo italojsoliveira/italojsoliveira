@@ -1,5 +1,5 @@
 <h2 align="center">Hi 🙃, I'm Ítalo Oliveira</h2>
-<h4 align="center">A former lawyer who has turned into a sort of computer scientist</h4>
+<h3 align="center">A former lawyer who has turned into a sort of computer scientist</h3>
 
 ![](https://komarev.com/ghpvc/?username=italojsoliveira)
 
