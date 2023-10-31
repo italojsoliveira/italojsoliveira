@@ -6,7 +6,8 @@
 - 🔭 **Passionate scientist**
   - **Applied Ontology**
   - **Conceptual Modeling**
-  - **Knowledge Representation**
+  - **Knowledge Representation, Ontology Engineering**
+  - **Security Modeling**
   - **Data Analysis**
   - **Philosophy of Law**
 
