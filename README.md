@@ -9,7 +9,7 @@
   - Data Analysis
   - Philosophy of Law
 
-- **Sometimes I write** [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
+- Sometimes I write [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
 
 
 <h2 align="center">
