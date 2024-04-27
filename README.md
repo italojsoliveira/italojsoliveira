@@ -6,7 +6,6 @@
   - Conceptual Modeling
   - Knowledge Representation, Ontology Engineering
   - Risk and Security Modeling
-  - Data Analysis
   - Philosophy of Law
 
 - Sometimes I write [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
