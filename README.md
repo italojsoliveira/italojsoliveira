@@ -8,7 +8,7 @@
 - Current research areas:
   - Conceptual Modeling
   - Applied Ontology
-  - Ontology Engineering | Knowledge Representation
+  - Ontology Engineering, Knowledge Representation
   - Enterprise Modeling
   - Risk Management and Cybersecurity
 
