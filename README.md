@@ -5,10 +5,11 @@
 
 - Ph.D. candidate in Computer Science at the [University of Twente](https://people.utwente.nl/i.j.dasilvaoliveira), Netherlands, and [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/phd-computer-science/phd-students/phd/42998-italo-jose-da-silva-oliveira), Italy.
 
-- Current research areas: 
-  - Applied Ontology
+- Current research areas:
   - Conceptual Modeling
-  - Knowledge Representation, Ontology Engineering
+  - Applied Ontology
+  - Ontology Engineering | Knowledge Representation
+  - Enterprise Modeling
   - Risk Management and Cybersecurity
 
 - Sometimes I write [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
