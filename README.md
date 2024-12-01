@@ -1,7 +1,7 @@
 <h2 align="center">Ítalo Oliveira</h2>
 <h4 align="center">A former lawyer who has turned into a computer scientist 👨🏻‍💻</h4>
 
-- Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente.
+- Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente, The Netherlands🇳🇱.
 
 - Current research areas:
   - Conceptual Modeling
