@@ -4,10 +4,10 @@
 - Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente, The Netherlands🇳🇱.
 
 - Current research areas:
-  - Conceptual Modeling
-  - Applied Ontology
-  - Ontology Engineering, Knowledge Representation
+  - Ontology-driven Conceptual Modeling
+  - Ontology Engineering & Knowledge Representation
+  - Linked Data and Semantic Web
   - Enterprise Modeling
-  - Risk Management and Cybersecurity
+  - Applications to Risk Management and Cybersecurity
 
 - Sometimes I write [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
