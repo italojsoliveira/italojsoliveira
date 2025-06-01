@@ -1,9 +1,9 @@
 <h2 align="center">Ítalo Oliveira</h2>
 <h4 align="center">A former lawyer who has turned into a computer scientist 👨🏻‍💻</h4>
 
-- Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente, The Netherlands🇳🇱.
+- I am a Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling and Linked Data in the public and private sectors.
 
-- Current research areas:
+- Research areas:
   - Ontology-driven Conceptual Modeling
   - Ontology Engineering & Knowledge Representation
   - Linked Data and Semantic Web
