@@ -1,7 +1,15 @@
 <h2 align="center">Ítalo Oliveira</h2>
 <h4 align="center">A former lawyer who has turned into a computer scientist 👨🏻‍💻</h4>
 
-- I am a Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling and Linked Data in the public and private sectors.
+I am a *Senior Information Analyst* at [Y.digital](https://www.y.digital/en-us), working with information modeling, ontologies, and Linked Data in the public and private sectors.
+
+I am also a [Guest Researcher](https://people.utwente.nl/i.j.dasilvaoliveira) at the *Semantics, Cybersecurity, and Services* ([SCS](https://www.utwente.nl/en/eemcs/scs/)) group at the University of Twente, The Netherlands🇳🇱.
+
+PhD in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
+
+Doctor of Law from the Federal University of Pernambuco, Brazil🇧🇷.
+
+As a researcher, I am interested in developing ontologically well-founded and logically rigorous technology solutions for risk management, particularly in cybersecurity.
 
 - Research areas:
   - Ontology-driven Conceptual Modeling
@@ -10,4 +18,4 @@
   - Enterprise Modeling
   - Applications to Risk Management and Cybersecurity
 
-- Sometimes I write [![](https://img.shields.io/badge/-NotSoShortNotes-000?&logo=wordpress)](https://notsoshortnotes.wordpress.com/)
+I casually blog [Not So Short Notes](https://notsoshortnotes.wordpress.com/).
