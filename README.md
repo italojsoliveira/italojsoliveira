@@ -1,5 +1,5 @@
 <h2 align="center">Ítalo Oliveira</h2>
-<h4 align="center">A former lawyer who has turned into a computer scientist 👨🏻‍💻</h4>
+<h4 align="center">A former lawyer who has turned into a computer scientist</h4>
 
 I am a *Senior Information Analyst* at [Y.digital](https://www.y.digital/en-us), working with information modeling, ontologies, and Linked Data in the public and private sectors.
 
